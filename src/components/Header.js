@@ -16,11 +16,11 @@ const socials = [
   },
   {
     icon: faGithub,
-    url: "https://github.com",
+    url: "https://github.com/Key-runnnnnnn",
   },
   {
     icon: faLinkedin,
-    url: "https://www.linkedin.com",
+    url: "https://www.linkedin.com/in/kiran-dhawan-22a75422b/",
   },
   {
     icon: faMedium,
